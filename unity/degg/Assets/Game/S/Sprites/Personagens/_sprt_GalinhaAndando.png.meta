@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: e88d99262f33c9a49aa9eefe80faf396
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2722937967385033696
+    second: _sprt_GalinhaAndando_0
+  - first:
+      213: 1946589756333739472
+    second: _sprt_GalinhaAndando_1
+  - first:
+      213: 6578517989406577088
+    second: _sprt_GalinhaAndando_2
+  - first:
+      213: -4301507256112023849
+    second: _sprt_GalinhaAndando_3
+  - first:
+      213: -1620870260736503773
+    second: _sprt_GalinhaAndando_4
+  - first:
+      213: 6728234521485107962
+    second: _sprt_GalinhaAndando_5
+  - first:
+      213: -6392516612249481981
+    second: _sprt_GalinhaAndando_6
+  - first:
+      213: -2127517845545804980
+    second: _sprt_GalinhaAndando_7
+  - first:
+      213: 6175811384598159628
+    second: _sprt_GalinhaAndando_8
+  - first:
+      213: -6704826330342874214
+    second: _sprt_GalinhaAndando_9
+  - first:
+      213: -7752050561445387183
+    second: _sprt_GalinhaAndando_10
+  - first:
+      213: 3670731987088255933
+    second: _sprt_GalinhaAndando_11
+  - first:
+      213: 640941363574478593
+    second: _sprt_GalinhaAndando_12
+  - first:
+      213: 4852764112670320663
+    second: _sprt_GalinhaAndando_13
+  - first:
+      213: 5258099892744248437
+    second: _sprt_GalinhaAndando_14
+  - first:
+      213: -920550466629279479
+    second: _sprt_GalinhaAndando_15
+  - first:
+      213: -2656734090265306538
+    second: _sprt_GalinhaAndando_16
+  - first:
+      213: 3800614150694979008
+    second: _sprt_GalinhaAndando_17
+  - first:
+      213: 1003912326756383555
+    second: _sprt_GalinhaAndando_18
+  - first:
+      213: 6168268879672907038
+    second: _sprt_GalinhaAndando_19
+  - first:
+      213: 1630767985629297320
+    second: _sprt_GalinhaAndando_20
+  - first:
+      213: -7051251259710512512
+    second: _sprt_GalinhaAndando_21
+  - first:
+      213: -2959978773668825954
+    second: _sprt_GalinhaAndando_22
+  - first:
+      213: 688266457522176386
+    second: _sprt_GalinhaAndando_23
+  - first:
+      213: -4150101712244733713
+    second: _sprt_GalinhaAndando_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb86397a1d9c520800000000000000
+      internalID: 2722937967385033696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddcfa5e11da30b10800000000000000
+      internalID: 1946589756333739472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c19813c1479b4b50800000000000000
+      internalID: 6578517989406577088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67da0e0f9fd44c0800000000000000
+      internalID: -4301507256112023849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3205ec9e5138189e0800000000000000
+      internalID: -1620870260736503773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e3aa46ad7f5d50800000000000000
+      internalID: 6728234521485107962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d061a92083947a0800000000000000
+      internalID: -6392516612249481981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b10f2aac98972e0800000000000000
+      internalID: -2127517845545804980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0169c2cbb3e4b550800000000000000
+      internalID: 6175811384598159628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932a3be9fba3f2a0800000000000000
+      internalID: -6704826330342874214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542e24261f2b6490800000000000000
+      internalID: -7752050561445387183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2f0c3b4f01f230800000000000000
+      internalID: 3670731987088255933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10716b936c415e800800000000000000
+      internalID: 640941363574478593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186a7adf3b785340800000000000000
+      internalID: 4852764112670320663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5a8c6ef588f840800000000000000
+      internalID: 5258099892744248437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901edb65a3c8933f0800000000000000
+      internalID: -920550466629279479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad01fbb62612bd0800000000000000
+      internalID: -2656734090265306538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54f7cfe6e7eb430800000000000000
+      internalID: 3800614150694979008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b33f531fc9eed00800000000000000
+      internalID: 1003912326756383555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15100c7dd71a9550800000000000000
+      internalID: 6168268879672907038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa738eb7d6a1a610800000000000000
+      internalID: 1630767985629297320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082ede2a65ce42e90800000000000000
+      internalID: -7051251259710512512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f5ccecfa0ce6d0800000000000000
+      internalID: -2959978773668825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2810d6f42b63d8900800000000000000
+      internalID: 688266457522176386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_GalinhaAndando_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe889eb1b70e766c0800000000000000
+      internalID: -4150101712244733713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

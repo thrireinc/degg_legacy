@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 34e39c010fb040a48b54950bd99acd25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2288313399726486758
+    second: _sprt_AtlasCorvo_0
+  - first:
+      213: 2350582659197845031
+    second: _sprt_AtlasCorvo_1
+  - first:
+      213: -2024861332760616843
+    second: _sprt_AtlasCorvo_2
+  - first:
+      213: 1340465455803311829
+    second: _sprt_AtlasCorvo_3
+  - first:
+      213: -1209577055260267616
+    second: _sprt_AtlasCorvo_4
+  - first:
+      213: 2640496909318867667
+    second: _sprt_AtlasCorvo_5
+  - first:
+      213: -5274503244326650028
+    second: _sprt_AtlasCorvo_6
+  - first:
+      213: -3974153389683927401
+    second: _sprt_AtlasCorvo_7
+  - first:
+      213: 7695297160517367124
+    second: _sprt_AtlasCorvo_8
+  - first:
+      213: 7528450546492185753
+    second: _sprt_AtlasCorvo_9
+  - first:
+      213: 4120350047745861451
+    second: _sprt_AtlasCorvo_10
+  - first:
+      213: -2615473713631935719
+    second: _sprt_AtlasCorvo_11
+  - first:
+      213: -6505436541396922281
+    second: _sprt_AtlasCorvo_12
+  - first:
+      213: -7220903889068846677
+    second: _sprt_AtlasCorvo_13
+  - first:
+      213: 5246693034950977753
+    second: _sprt_AtlasCorvo_14
+  - first:
+      213: -292238439605013871
+    second: _sprt_AtlasCorvo_15
+  - first:
+      213: 1871915742981600892
+    second: _sprt_AtlasCorvo_16
+  - first:
+      213: 5974119156974811877
+    second: _sprt_AtlasCorvo_17
+  - first:
+      213: -8129212526064717841
+    second: _sprt_AtlasCorvo_18
+  - first:
+      213: -3483605597391899383
+    second: _sprt_AtlasCorvo_19
+  - first:
+      213: 8369196531747880874
+    second: _sprt_AtlasCorvo_20
+  - first:
+      213: 4284658558107483462
+    second: _sprt_AtlasCorvo_21
+  - first:
+      213: -6228191782468547248
+    second: _sprt_AtlasCorvo_22
+  - first:
+      213: 4030321889287999006
+    second: _sprt_AtlasCorvo_23
+  - first:
+      213: 4322574367415881560
+    second: _sprt_AtlasCorvo_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b67db9e8b1cf10800000000000000
+      internalID: 2288313399726486758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3ea08972fe9020800000000000000
+      internalID: 2350582659197845031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702165985f36e3e0800000000000000
+      internalID: -2024861332760616843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a6deda3a4a9210800000000000000
+      internalID: 1340465455803311829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abafbca318b63fe0800000000000000
+      internalID: -1209577055260267616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac776f2fde4a420800000000000000
+      internalID: 2640496909318867667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb34bae333dc6b0800000000000000
+      internalID: -5274503244326650028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79699fc4c88f8d8c0800000000000000
+      internalID: -3974153389683927401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b5bdfeff2bca60800000000000000
+      internalID: 7695297160517367124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c13c472ed6a7860800000000000000
+      internalID: 7528450546492185753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e722b98c6e2930800000000000000
+      internalID: 4120350047745861451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c89bc388f3bbd0800000000000000
+      internalID: -2615473713631935719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d031deeb08b5a0800000000000000
+      internalID: -6505436541396922281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba190debb223acb90800000000000000
+      internalID: -7220903889068846677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8e4c1648fffc840800000000000000
+      internalID: 5246693034950977753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192f0a100b2c1fbf0800000000000000
+      internalID: -292238439605013871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7631ed43716af910800000000000000
+      internalID: 1871915742981600892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf65598b558e250800000000000000
+      internalID: 5974119156974811877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa148274c3f2f80800000000000000
+      internalID: -8129212526064717841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b4e58a2fb7afc0800000000000000
+      internalID: -3483605597391899383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf734a57eb552470800000000000000
+      internalID: 8369196531747880874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d75dbe14a267b30800000000000000
+      internalID: 4284658558107483462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d84fc72940199a0800000000000000
+      internalID: -6228191782468547248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0e7d97649ee730800000000000000
+      internalID: 4030321889287999006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sprt_AtlasCorvo_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f48053c7edcfb30800000000000000
+      internalID: 4322574367415881560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
